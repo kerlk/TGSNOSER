@@ -1,5 +1,5 @@
 ```
-git clone github.com/Kerlk/TGSNOSER.git
+git clone github.com/kerlk/TGSNOSER.git
 ```
 ```
 cd TGSNOSER
