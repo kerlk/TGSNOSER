@@ -7,13 +7,9 @@ import os
 from pystyle import Anime, Colors, Colorate, Center
 
 senders = {
-'01928309@internet.ru'            :'ttyCuTI81ExoHI5myMW1',
-'4390-24234092@mail.ru'           :'ZXv45ZnYkHhUyRTAFFnE',
-'01932809128@mail.ru'             :'qat3v30lNrQeN0xcxRdw',
-'mentallyi@bk.ru'                 :'cBQaSPfcwYodVKYsWWXJ',
-'12390123asas@mail.ru'            :'qeYnWQ3o2Lz2zVIznoLe',
-'ddosddos55@mail.ru'              :'v67FVXHonbnILUvnhLD3',
-'mentally.ill.05@mail.ru'         :'RxikX42aOiMFm6z9pxwJ'
+'почта':'пароль приложения (не от аккаунта!',
+'почта2':'пароль2',
+'и т.д.':'и т.п.'
 }
 
 receivers = ['support@telegram.org', 'abuse@telegram.org']
