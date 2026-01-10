@@ -1,3 +1,6 @@
+ДОБАВЬТЕ СВОИ ПОЧТЫ/ПАРОЛИ В tgsnoser.py!!!
+
+
 ```
 git clone https://github.com/kerlk/TGSNOSER
 ```
